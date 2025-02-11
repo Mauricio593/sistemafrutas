@@ -6,3 +6,9 @@ CARGO = [
      ('limpieza', 'limpieza'),
       ('seguridad', 'seguridad'),
 ]
+
+GENERO = [
+    ('hombre', 'hombre'),
+    ('mujer', 'mujer'),
+    
+]
