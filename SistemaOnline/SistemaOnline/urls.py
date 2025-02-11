@@ -21,6 +21,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('empleados/', include('Gestion.urls')),
      path('clientes/', include('Gestion.urls')),
+     path('productos/', include('Gestion.urls')),
     
     # Incluye las URLs de la API
 ]

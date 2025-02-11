@@ -12,3 +12,9 @@ GENERO = [
     ('mujer', 'mujer'),
     
 ]
+
+colores = [
+    ('hombre', 'hombre'),
+    ('mujer', 'mujer'),
+    
+]
